@@ -1,0 +1,2 @@
+source_id	subjects_num	sessions_num	sessions_min	sessions_max	bold_num	t1w_num	t2w_num	bold_size	t1w_size	bold_size_max	bold_duration_total	bold_duration_mean	bold_voxels_total	bold_voxels_mean	datatypes
+ds000113	37	563	3	48	7390	118	118	1447466332575	1633932324	195868245	1666408.1391186714	428.1624201229885	2461643800	632488.1294964029	anat,beh,dwi,fmap,func
