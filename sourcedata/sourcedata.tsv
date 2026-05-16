@@ -1,2 +1,2 @@
-source_id	subjects_num	sessions_num	sessions_min	sessions_max	bold_num	t1w_num	t2w_num	bold_size	t1w_size	bold_size_max	bold_duration_total	bold_duration_mean	bold_voxels_total	bold_voxels_mean	datatypes
-ds000113	37	99	1	8	1319	20	20	254054511802	275942988	192611457	616348.0499427319	467.28434415673377	867341800	657575.2843062927	anat,beh,dwi,fmap,func
+source_id	subjects_num	sessions_num	sessions_min	sessions_max	bold_num	t1w_num	t2w_num	bold_size	t1w_size	bold_size_max	bold_duration_total	bold_duration_mean	bold_voxels_total	bold_voxels_mean	bold_tasks	bold_timepoints	bold_trs	datatypes
+ds000113	37	99	1	8	1319	20	20	254054511802	275942988	192611457	616348.0499427319	467.28434415673377	867341800	657575.2843062927	auditoryperception,coverage,forrestgump,movie,movielocalizer,objectcategories,orientation,retmapccw,retmapclw,retmapcon,retmapexp	307334	{"2.0":1305,"4.0":14}	anat,beh,dwi,fmap,func
